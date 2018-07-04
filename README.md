@@ -166,7 +166,7 @@ You should notice Vagrant automatically updating the packages and installing add
 
 Once the process is complete you should have 1 vm running.  You can verify by looking at the VirtualBox UI where you should see the ```cloudbreak``` VM running.  You should see something similar to this:
 
-![Virtualbox UI](<assets/virtualbox-ui.png>)
+![Virtualbox UI](</assets/virtualbox-ui.png>)
 
 #### Connect to Your Virtual Machine​
 
@@ -336,11 +336,11 @@ Cloudbreak should now be running.  We can login to the UI using the IP address s
 
 Your browser may display a warning similar to the following:
 
-![Browswer Warning](<assets/browser-warning.png>)
+![Browswer Warning](</assets/browser-warning.png>)
 
 This is because of the self-signed certificate used by Cloudbreak.  You should accept the certificate and trust the site.  Then you should see a login screen similar to the following:
 
-![Cloudbreak Login](<assets/cloudbreak-login.png>)
+![Cloudbreak Login](</assets/cloudbreak-login.png>)
 
 At this point you should be able the Cloudbreak UI screen where you can manage your credentials, blueprints, etc.  This tutorial doesn't cover setting up credentials or deploying a cluster.  Before you can deploy a cluster you need to setup ```credentials```.  See this link for setting up your crendentials:
 
