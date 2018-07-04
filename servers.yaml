@@ -1,0 +1,7 @@
+---
+- name: cloudbreak
+  box: bento/centos-7.4
+  cpus: 2
+  ram: 4096
+  ip: 192.168.56.101
+  port: 10122
